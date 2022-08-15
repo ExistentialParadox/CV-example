@@ -1,0 +1,149 @@
+body {
+    color: #393E46;
+    margin: 0;
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+}
+
+a {
+    color: #222831;
+    font-family: 'Kanit', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EEEEEE;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.contenedor-superior {
+    background-color: #00ADB5;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    margin-top: 60px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.primer-titulo {
+    color: #222831;
+    margin: 0 auto 0 auto;
+    padding-top: 150px;
+    font-family: 'Sacramento', cursive;  
+    font-size: 562.5%;  
+}
+
+h2 {
+    color: #393E46;
+    height: 2;
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Kanit', sans-serif;
+}
+
+.me {
+    width: 30%;
+    margin: 100px auto 100px auto;
+}
+
+.profile {
+    width: 40%;
+}
+
+.saludo {
+    line-height: 2;
+}
+
+.linea-horizontal {
+    color: #b8b8b8;
+    border-style: dotted none none;
+    border-width: 8px;
+    width: 6%;
+    margin: 100px auto;    
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.descripcion {
+    line-height: 2;
+}
+
+.skill-uno {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-dos {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.middle-container {
+    margin: 100px 0;    
+}
+
+.bottom-container {
+    background-color: #00ADB5;
+    padding: 30px;
+    height: 130px;
+}
+
+.contact-me {
+    padding-bottom: 50px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
+
+.btn {
+    background: #222831;
+    border-radius: 14px;
+    font-family: 'Kanit', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #00ADB5;
+    text-decoration: none;
+  }
+
+.firma {
+    color: #EAF6F6;
+    font-size: 1rem;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px 0px;
+}
+
+
+
+
+
